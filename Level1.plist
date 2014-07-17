@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>platforms</key>
+	<array>
+		<dict>
+			<key>platformType</key>
+			<integer>1</integer>
+			<key>platformPosition</key>
+			<string>{440,10}</string>
+		</dict>
+		<dict>
+			<key>platformType</key>
+			<integer>1</integer>
+			<key>platformPosition</key>
+			<string>{520,10}</string>
+		</dict>
+		<dict>
+			<key>platformType</key>
+			<integer>3</integer>
+			<key>platformPosition</key>
+			<string>{440,50}</string>
+		</dict>
+		<dict>
+			<key>platformType</key>
+			<integer>3</integer>
+			<key>platformPosition</key>
+			<string>{520,50}</string>
+		</dict>
+		<dict>
+			<key>platformType</key>
+			<integer>2</integer>
+			<key>platformPosition</key>
+			<string>{480,100}</string>
+		</dict>
+		<dict>
+			<key>platformType</key>
+			<integer>3</integer>
+			<key>platformPosition</key>
+			<string>{440,120}</string>
+		</dict>
+		<dict>
+			<key>platformType</key>
+			<integer>3</integer>
+			<key>platformPosition</key>
+			<string>{520,120}</string>
+		</dict>
+		<dict>
+			<key>platformType</key>
+			<integer>2</integer>
+			<key>platformPosition</key>
+			<string>{480,160}</string>
+		</dict>
+		<dict>
+			<key>platformType</key>
+			<integer>1</integer>
+			<key>platformPosition</key>
+			<string>{480,200}</string>
+		</dict>
+		<dict>
+			<key>platformType</key>
+			<integer>3</integer>
+			<key>platformPosition</key>
+			<string>{480,240}</string>
+		</dict>
+	</array>
+	<key>objectives</key>
+	<array>
+		<dict>
+			<key>objectivePosition</key>
+			<string>{480, 25}</string>
+		</dict>
+	</array>
+</dict>
+</plist>
