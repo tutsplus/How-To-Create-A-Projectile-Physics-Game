@@ -1,4 +1,4 @@
-### Tuts+ Tutorial: How To Create A Projectile Physics Game
+### Tuts+ Tutorial: Projectile Physics Engines: Building a Game World
 
 #### Instructor: Richard Yeates
 
